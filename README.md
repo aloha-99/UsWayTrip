@@ -120,7 +120,11 @@
 
 * 국내숙소 시연 
 ![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연1.jpg)
+
 ![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연2.jpg)
+
 ![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연3.jpg)
+
 ![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연4.jpg)
+
 ![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연5.jpg)

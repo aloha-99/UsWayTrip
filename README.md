@@ -111,20 +111,29 @@
 💡 관리자와 사용자의 UI, 기능 분리 <br/>
 💡 협업에서 중요한 팀워크, 의사소통능력, 문제해결 능력 <br/>
 
-**6. 관련 문서** <br/>
+**6. 관련 이미지** <br/>
 * 사용자 흐름도
 ![사용자 흐름도](./UsWayTrip_img/user.jpg)
 
 * 관리자 흐름도
 ![관리자 흐름도](./UsWayTrip_img/manager.jpg)
 
-* 국내숙소 시연 
-![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연1.jpg)
+* 국내숙소 관리자 시연 
+![국내숙소 관리자](./UsWayTrip_img/play1.jpg)
 
-![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연2.jpg)
+![국내숙소 관리자](./UsWayTrip_img/play2.jpg)
 
-![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연3.jpg)
+![국내숙소 관리자](./UsWayTrip_img/play3.jpg)
 
-![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연4.jpg)
+![국내숙소 관리자](./UsWayTrip_img/play4.jpg)
 
-![국내숙소 관리자](./UsWayTrip_img/국내숙소 시연5.jpg)
+![국내숙소 관리자](./UsWayTrip_img/play5.jpg)
+
+* 국내숙소 사용자 시연 
+![국내숙소 사용자](./UsWayTrip_img/user1.jpg)
+
+![국내숙소 사용자](./UsWayTrip_img/user2.jpg)
+
+![국내숙소 사용자](./UsWayTrip_img/user3.jpg)
+
+![국내숙소 사용자](./UsWayTrip_img/user4.jpg)
